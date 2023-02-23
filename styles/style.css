@@ -181,7 +181,12 @@ body{
       grid-row: span 3;
     }
   }
-  
+#video {
+    margin: 0;
+    padding: 20px;
+    width: 1280px;
+    justify-content: center;
+}
 .top-box {
     width: 1280px;
     justify-content: center;
